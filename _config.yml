@@ -1,19 +1,14 @@
 # Site settings
-title: "TextLog"
-description: "Minimalist Jekyll theme for documentation site"
-baseurl: "/textlog" # required if used under gh-pages branch, else (under master branch) just leave empty/blank
-url: ""
-author: "John Doe"
+title: "liam"
+description: "Download the liam program."
+baseurl: "/" # required if used under gh-pages branch, else (under master branch) just leave empty/blank
+url: "https://liamyang.github.io/"
+author: "Liam Yang"
 
 # Build settings
 kramdown:
   input: GFM
 permalink: pretty
-
-# Third-party services
-# just leave empty to disable it
-google_analytics:
-disqus_shortname: 
 
 plugins:
   - jekyll-sitemap
