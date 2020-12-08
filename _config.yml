@@ -1,7 +1,7 @@
 # Site settings
 title: "liam"
 description: "Download the liam program."
-baseurl: "/" # required if used under gh-pages branch, else (under master branch) just leave empty/blank
+baseurl: "" # required if used under gh-pages branch, else (under master branch) just leave empty/blank
 url: "https://liamyang.github.io/"
 author: "Liam Yang"
 
