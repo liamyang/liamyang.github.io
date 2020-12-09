@@ -12,5 +12,6 @@ permalink: pretty
 
 plugins:
   - jekyll-sitemap
+  - jekyll-algolia
 
 exclude: ["LICENSE", "README.md", "CNAME", "vendor", "Gemfile", "script"]
