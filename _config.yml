@@ -11,6 +11,6 @@ kramdown:
 permalink: pretty
 
 plugins:
-  - jekyll-algolia
+  - 
 
 exclude: ["LICENSE", "README.md", "CNAME", "vendor", "Gemfile", "script"]
